@@ -1,0 +1,133 @@
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\concrt140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\cvextern.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\msvcp140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\vcruntime140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\concrt140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\cvextern.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\msvcp140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\vcruntime140.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_eye.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_frontalface_default.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_fullbody.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe.config
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.pdb
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.pdb
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.xml
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\de\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\es\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\fr\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\hu\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\it\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\ja\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\pt\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\ru\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\sk\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\sv\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\tr\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csprojAssemblyReference.cache
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Form1.resources
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Properties.Resources.resources
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.GenerateResource.cache
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.CopyComplete
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.exe
+D:\Универ\4.1 семестр\ПМиМП\PMMP-master\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.pdb
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\concrt140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\cvextern.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\msvcp140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\vcruntime140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\concrt140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\cvextern.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\msvcp140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\vcruntime140.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_eye.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_frontalface_default.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_fullbody.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe.config
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.pdb
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.pdb
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.xml
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\de\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\es\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\fr\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\hu\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\it\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\ja\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\pt\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\ru\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\sk\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\sv\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\tr\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csprojAssemblyReference.cache
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Form1.resources
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Properties.Resources.resources
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.GenerateResource.cache
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.CopyComplete
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.exe
+D:\Study\7\ПМиМП\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.pdb
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\concrt140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\cvextern.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\msvcp140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x64\vcruntime140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\concrt140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\cvextern.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\msvcp140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\x86\vcruntime140.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_eye.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_frontalface_default.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\haarcascade_fullbody.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe.config
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.exe
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\PMMP_Lab06.pdb
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\DirectShowLib.pdb
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.UI.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\Emgu.CV.World.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\ZedGraph.xml
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\de\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\es\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\fr\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\hu\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\it\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\ja\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\pt\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\ru\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\sk\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\sv\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\tr\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csprojAssemblyReference.cache
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Form1.resources
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.Properties.Resources.resources
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.GenerateResource.cache
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.CoreCompileInputs.cache
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.csproj.CopyComplete
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.exe
+D:\7sem\Программирование мультимедийных и многомерных приложений\Лабы\PMMP_Lab06\PMMP_Lab06\obj\Debug\PMMP_Lab06.pdb
